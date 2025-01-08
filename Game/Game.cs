@@ -25,7 +25,7 @@ namespace GameProject.Game
             Player2 = player2;
 
             // Initialize the deck from JSON
-            LoadCardsFromJson("D:\\cs_projects\\lab3\\лаба3\\database\\cardsDatabase.json");
+            LoadCardsFromJson("D:\\cs_projects\\WpfApp1\\database\\cardsDatabase.json");
 
 
             var diceRoll1 = Dice.Next(1, 7);
