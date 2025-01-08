@@ -4,7 +4,7 @@
     "cardName": "Elf",
     "cardDamage": 5,
     "description": "Примените, чтобы вылечить персонажа",
-    "imageLink": "",
+    "imageLink": "D:\\cs_projects\\WpfApp1\\Images\\elf.jpg",
     "cardType": "heal"
   },
   {
@@ -12,7 +12,7 @@
     "cardName": "Elf",
     "cardDamage": 10,
     "description": "Примените, чтобы вылечить персонажа",
-    "imageLink": "",
+    "imageLink": "D:\\cs_projects\\WpfApp1\\Images\\elf.jpg",
     "cardType": "heal"
   },
   {
@@ -20,7 +20,7 @@
     "cardName": "Elf",
     "cardDamage": 15,
     "description": "Примените, чтобы вылечить персонажа",
-    "imageLink": "",
+    "imageLink": "D:\\cs_projects\\WpfApp1\\Images\\elf.jpg",
     "cardType": "heal"
   },
   {
@@ -28,7 +28,7 @@
     "cardName": "Elf",
     "cardDamage": 20,
     "description": "Примените, чтобы вылечить персонажа",
-    "imageLink": "",
+    "imageLink": "D:\\cs_projects\\WpfApp1\\Images\\elf.jpg",
     "cardType": "heal"
   },
   {
@@ -36,7 +36,7 @@
     "cardName": "Elf",
     "cardDamage": 25,
     "description": "Примените, чтобы вылечить персонажа",
-    "imageLink": "",
+    "imageLink": "D:\\cs_projects\\WpfApp1\\Images\\elf.jpg",
     "cardType": "heal"
   },
   {
@@ -44,7 +44,7 @@
     "cardName": "Elf",
     "cardDamage": 30,
     "description": "Примените, чтобы вылечить персонажа",
-    "imageLink": "",
+    "imageLink": "D:\\cs_projects\\WpfApp1\\Images\\elf.jpg",
     "cardType": "heal"
   },
   {
@@ -52,7 +52,7 @@
     "cardName": "Wizard",
     "cardDamage": 5,
     "description": "Примените, чтобы улучшить персонажа",
-    "imageLink": "",
+    "imageLink": "D:\\cs_projects\\WpfApp1\\Images\\Wizard.jpg",
     "cardType": "improve"
   },
   {
@@ -60,7 +60,7 @@
     "cardName": "Wizard",
     "cardDamage": 10,
     "description": "Примените, чтобы улучшить персонажа",
-    "imageLink": "",
+    "imageLink": "D:\\cs_projects\\WpfApp1\\Images\\Wizard.jpg",
     "cardType": "improve"
   },
   {
@@ -68,7 +68,7 @@
     "cardName": "Wizard",
     "cardDamage": 15,
     "description": "Примените, чтобы улучшить персонажа",
-    "imageLink": "",
+    "imageLink": "D:\\cs_projects\\WpfApp1\\Images\\Wizard.jpg",
     "cardType": "improve"
   },
   {
@@ -76,7 +76,7 @@
     "cardName": "Wizard",
     "cardDamage": 20,
     "description": "Примените, чтобы улучшить персонажа",
-    "imageLink": "",
+    "imageLink": "D:\\cs_projects\\WpfApp1\\Images\\Wizard.jpg",
     "cardType": "improve"
   },
   {
@@ -84,7 +84,7 @@
     "cardName": "Wizard",
     "cardDamage": 25,
     "description": "Примените, чтобы улучшить персонажа",
-    "imageLink": "",
+    "imageLink": "D:\\cs_projects\\WpfApp1\\Images\\Wizard.jpg",
     "cardType": "improve"
   },
   {
@@ -92,7 +92,7 @@
     "cardName": "Wizard",
     "cardDamage": 30,
     "description": "Примените, чтобы улучшить персонажа",
-    "imageLink": "",
+    "imageLink": "D:\\cs_projects\\WpfApp1\\Images\\Wizard.jpg",
     "cardType": "improve"
   },
   {
@@ -100,7 +100,7 @@
     "cardName": "Warrior",
     "cardDamage": 5,
     "description": "Примените, чтобы нанести урон противнику",
-    "imageLink": "",
+    "imageLink": "D:\\cs_projects\\WpfApp1\\Images\\warrior.jpg",
     "cardType": "damage"
   },
   {
@@ -108,7 +108,7 @@
     "cardName": "Warrior",
     "cardDamage": 10,
     "description": "Примените, чтобы нанести урон противнику",
-    "imageLink": "",
+    "imageLink": "D:\\cs_projects\\WpfApp1\\Images\\warrior.jpg",
     "cardType": "damage"
   },
   {
@@ -116,7 +116,7 @@
     "cardName": "Warrior",
     "cardDamage": 15,
     "description": "Примените, чтобы нанести урон противнику",
-    "imageLink": "",
+    "imageLink": "D:\\cs_projects\\WpfApp1\\Images\\warrior.jpg",
     "cardType": "damage"
   },
   {
@@ -124,7 +124,7 @@
     "cardName": "Warrior",
     "cardDamage": 20,
     "description": "Примените, чтобы нанести урон противнику",
-    "imageLink": "",
+    "imageLink": "D:\\cs_projects\\WpfApp1\\Images\\warrior.jpg",
     "cardType": "damage"
   },
   {
@@ -132,7 +132,7 @@
     "cardName": "Warrior",
     "cardDamage": 25,
     "description": "Примените, чтобы нанести урон противнику",
-    "imageLink": "",
+    "imageLink": "D:\\cs_projects\\WpfApp1\\Images\\warrior.jpg",
     "cardType": "damage"
   },
   {
@@ -140,7 +140,7 @@
     "cardName": "Warrior",
     "cardDamage": 30,
     "description": "Примените, чтобы нанести урон противнику",
-    "imageLink": "",
+    "imageLink": "D:\\cs_projects\\WpfApp1\\Images\\warrior.jpg",
     "cardType": "damage"
   },
   {
@@ -148,7 +148,7 @@
     "cardName": "Warrior",
     "cardDamage": 35,
     "description": "Примените, чтобы нанести урон противнику",
-    "imageLink": "",
+    "imageLink": "D:\\cs_projects\\WpfApp1\\Images\\warrior.jpg",
     "cardType": "damage"
   },
   {
@@ -156,7 +156,7 @@
     "cardName": "Warrior",
     "cardDamage": 40,
     "description": "Примените, чтобы нанести урон противнику",
-    "imageLink": "",
+    "imageLink": "D:\\cs_projects\\WpfApp1\\Images\\warrior.jpg",
     "cardType": "damage"
   },
   {
@@ -164,7 +164,7 @@
     "cardName": "Warrior",
     "cardDamage": 45,
     "description": "Примените, чтобы нанести урон противнику",
-    "imageLink": "",
+    "imageLink": "D:\\cs_projects\\WpfApp1\\Images\\warrior.jpg",
     "cardType": "damage"
   },
   {
@@ -172,7 +172,7 @@
     "cardName": "Warrior",
     "cardDamage": 50,
     "description": "Примените, чтобы нанести урон противнику",
-    "imageLink": "",
+    "imageLink": "D:\\cs_projects\\WpfApp1\\Images\\warrior.jpg",
     "cardType": "damage"
   },
   {
@@ -180,7 +180,7 @@
     "cardName": "Warrior",
     "cardDamage": 55,
     "description": "Примените, чтобы нанести урон противнику",
-    "imageLink": "",
+    "imageLink": "D:\\cs_projects\\WpfApp1\\Images\\warrior.jpg",
     "cardType": "damage"
   },
   {
@@ -188,7 +188,7 @@
     "cardName": "Warrior",
     "cardDamage": 60,
     "description": "Примените, чтобы нанести урон противнику",
-    "imageLink": "",
+    "imageLink": "D:\\cs_projects\\WpfApp1\\Images\\warrior.jpg",
     "cardType": "damage"
   }
 ]

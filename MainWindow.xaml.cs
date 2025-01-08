@@ -38,7 +38,7 @@ namespace CardGameWPF
             CurrentPlayerHealth.Text = $"Health: {game.CurrentPlayer.Health}";
             OpponentPlayerHealth.Text = $"Health: {game.Opponent.Health}";
 
-            PlayerCards.ItemsSource = game.CurrentPlayer.Hand;
+            PlayerCards.ItemsSource = game.CurrentPlayer.Hand; // Привязка карточек игрока
             GameLog.Text = string.Join(Environment.NewLine, game.GameLog);
         }
 
