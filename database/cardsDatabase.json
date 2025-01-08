@@ -1,0 +1,194 @@
+﻿[
+  {
+    "id": 1,
+    "cardName": "Elf",
+    "cardDamage": 5,
+    "description": "Примените, чтобы вылечить персонажа",
+    "imageLink": "",
+    "cardType": "heal"
+  },
+  {
+    "id": 2,
+    "cardName": "Elf",
+    "cardDamage": 10,
+    "description": "Примените, чтобы вылечить персонажа",
+    "imageLink": "",
+    "cardType": "heal"
+  },
+  {
+    "id": 3,
+    "cardName": "Elf",
+    "cardDamage": 15,
+    "description": "Примените, чтобы вылечить персонажа",
+    "imageLink": "",
+    "cardType": "heal"
+  },
+  {
+    "id": 4,
+    "cardName": "Elf",
+    "cardDamage": 20,
+    "description": "Примените, чтобы вылечить персонажа",
+    "imageLink": "",
+    "cardType": "heal"
+  },
+  {
+    "id": 5,
+    "cardName": "Elf",
+    "cardDamage": 25,
+    "description": "Примените, чтобы вылечить персонажа",
+    "imageLink": "",
+    "cardType": "heal"
+  },
+  {
+    "id": 6,
+    "cardName": "Elf",
+    "cardDamage": 30,
+    "description": "Примените, чтобы вылечить персонажа",
+    "imageLink": "",
+    "cardType": "heal"
+  },
+  {
+    "id": 7,
+    "cardName": "Wizard",
+    "cardDamage": 5,
+    "description": "Примените, чтобы улучшить персонажа",
+    "imageLink": "",
+    "cardType": "improve"
+  },
+  {
+    "id": 8,
+    "cardName": "Wizard",
+    "cardDamage": 10,
+    "description": "Примените, чтобы улучшить персонажа",
+    "imageLink": "",
+    "cardType": "improve"
+  },
+  {
+    "id": 9,
+    "cardName": "Wizard",
+    "cardDamage": 15,
+    "description": "Примените, чтобы улучшить персонажа",
+    "imageLink": "",
+    "cardType": "improve"
+  },
+  {
+    "id": 10,
+    "cardName": "Wizard",
+    "cardDamage": 20,
+    "description": "Примените, чтобы улучшить персонажа",
+    "imageLink": "",
+    "cardType": "improve"
+  },
+  {
+    "id": 11,
+    "cardName": "Wizard",
+    "cardDamage": 25,
+    "description": "Примените, чтобы улучшить персонажа",
+    "imageLink": "",
+    "cardType": "improve"
+  },
+  {
+    "id": 12,
+    "cardName": "Wizard",
+    "cardDamage": 30,
+    "description": "Примените, чтобы улучшить персонажа",
+    "imageLink": "",
+    "cardType": "improve"
+  },
+  {
+    "id": 13,
+    "cardName": "Warrior",
+    "cardDamage": 5,
+    "description": "Примените, чтобы нанести урон противнику",
+    "imageLink": "",
+    "cardType": "damage"
+  },
+  {
+    "id": 14,
+    "cardName": "Warrior",
+    "cardDamage": 10,
+    "description": "Примените, чтобы нанести урон противнику",
+    "imageLink": "",
+    "cardType": "damage"
+  },
+  {
+    "id": 15,
+    "cardName": "Warrior",
+    "cardDamage": 15,
+    "description": "Примените, чтобы нанести урон противнику",
+    "imageLink": "",
+    "cardType": "damage"
+  },
+  {
+    "id": 16,
+    "cardName": "Warrior",
+    "cardDamage": 20,
+    "description": "Примените, чтобы нанести урон противнику",
+    "imageLink": "",
+    "cardType": "damage"
+  },
+  {
+    "id": 17,
+    "cardName": "Warrior",
+    "cardDamage": 25,
+    "description": "Примените, чтобы нанести урон противнику",
+    "imageLink": "",
+    "cardType": "damage"
+  },
+  {
+    "id": 18,
+    "cardName": "Warrior",
+    "cardDamage": 30,
+    "description": "Примените, чтобы нанести урон противнику",
+    "imageLink": "",
+    "cardType": "damage"
+  },
+  {
+    "id": 19,
+    "cardName": "Warrior",
+    "cardDamage": 35,
+    "description": "Примените, чтобы нанести урон противнику",
+    "imageLink": "",
+    "cardType": "damage"
+  },
+  {
+    "id": 20,
+    "cardName": "Warrior",
+    "cardDamage": 40,
+    "description": "Примените, чтобы нанести урон противнику",
+    "imageLink": "",
+    "cardType": "damage"
+  },
+  {
+    "id": 21,
+    "cardName": "Warrior",
+    "cardDamage": 45,
+    "description": "Примените, чтобы нанести урон противнику",
+    "imageLink": "",
+    "cardType": "damage"
+  },
+  {
+    "id": 22,
+    "cardName": "Warrior",
+    "cardDamage": 50,
+    "description": "Примените, чтобы нанести урон противнику",
+    "imageLink": "",
+    "cardType": "damage"
+  },
+  {
+    "id": 23,
+    "cardName": "Warrior",
+    "cardDamage": 55,
+    "description": "Примените, чтобы нанести урон противнику",
+    "imageLink": "",
+    "cardType": "damage"
+  },
+  {
+    "id": 24,
+    "cardName": "Warrior",
+    "cardDamage": 60,
+    "description": "Примените, чтобы нанести урон противнику",
+    "imageLink": "",
+    "cardType": "damage"
+  }
+]
