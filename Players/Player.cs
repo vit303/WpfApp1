@@ -9,7 +9,7 @@ namespace GameProject.Players
         public string Name { get; set; }
         public int Health { get; set; }
         public int Defense { get; set; }
-    
+
         public List<Card> Hand { get; set; } = new List<Card>();
         public List<string> Log { get; set; } = new List<string>();
 
@@ -18,12 +18,12 @@ namespace GameProject.Players
             Name = name;
             Health = 100;
             Defense = 0;
-            
+
         }
 
         public void DrawCard(List<Card> deck)
         {
-            
+
             if (Hand.Count >= 3) return;
 
             if (deck.Count > 0)
@@ -48,8 +48,8 @@ namespace GameProject.Players
         // Check if the player can play the card
         public bool CanPlayCard(Card card)
         {
-            
-            return true; 
+
+            return true;
         }
 
         public void PlayCard(Card card, Player opponent)
@@ -66,7 +66,7 @@ namespace GameProject.Players
             }
         }
 
-        
+
         public void Heal(int amount)
         {
             Health += amount;
@@ -75,7 +75,7 @@ namespace GameProject.Players
 
         public void Improve(int amount)
         {
-            Defense += amount; 
+            Defense += amount;
             Log.Add($"{Name} improved defense by {amount}. Current defense: {Defense}");
         }
 
@@ -87,4 +87,3 @@ namespace GameProject.Players
         }
     }
 }
-

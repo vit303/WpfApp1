@@ -27,7 +27,7 @@ namespace GameProject.Game
             // Initialize the deck from JSON
             LoadCardsFromJson("D:\\cs_projects\\lab3\\лаба3\\database\\cardsDatabase.json");
 
-            
+
             var diceRoll1 = Dice.Next(1, 7);
             var diceRoll2 = Dice.Next(1, 7);
             if (diceRoll1 >= diceRoll2)

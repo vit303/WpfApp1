@@ -9,7 +9,7 @@ namespace GameProject.Cards
         {
             Id = id;
             Name = name;
-            CardDamage = cardDamage; 
+            CardDamage = cardDamage;
             Description = description;
             ImageLink = imageLink;
             CardType = "heal";
@@ -17,7 +17,7 @@ namespace GameProject.Cards
 
         public override void Play(Player player, Player opponent)
         {
-            
+
             player.Heal(CardDamage);
         }
     }

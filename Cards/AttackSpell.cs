@@ -9,7 +9,7 @@ namespace GameProject.Cards
         {
             Id = id;
             Name = name;
-            CardDamage = cardDamage; 
+            CardDamage = cardDamage;
             Description = description;
             ImageLink = imageLink;
             CardType = "damage";
@@ -20,10 +20,10 @@ namespace GameProject.Cards
             // Calculate the new health after damage
             int newHealth = opponent.Health - CardDamage;
 
-            
+
             opponent.Health = newHealth < 0 ? 0 : newHealth;
 
-            
+
         }
     }
 }
